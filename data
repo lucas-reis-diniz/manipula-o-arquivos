@@ -1,0 +1,6 @@
+import datetime
+datetime.date.today()
+datetime.datetime.now()
+datetime.datetime.now().time()
+
+datetime.datetime.now().strftime("%Y-%m-%d')
